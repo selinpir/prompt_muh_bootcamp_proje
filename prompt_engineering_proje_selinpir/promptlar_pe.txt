@@ -1,0 +1,73 @@
+PROMT 1
+Bir fronted developer olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: 
+HTML, CSS içeren bir site
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+HTML, CSS kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+
+PROMT 2
+web sitesi bir porfolio galeri web sitesi ve burada dunyada olmayan yemek onerileri paylasmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+Sayfamın header bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette footer bölümünde olmasini istiyorum.
+Sayfanın içeriğinin galeri görünümünde, her bir ızgarada 2 adet olmak üzere 300x400 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiginde bir geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+PROMT 3
+sitenin arka planını biraz daha soft bir renk yapar mısın ?
+
+PROMT 4
+dünyada hiç yapılmamış yemek isimleri önerir misin 6 adet ?
+
+PROMT 5
+bu yemekleri görselleri ile birlikte sitemize ekler misin 3 3  şeklinde ızgara olsun ve kodun devamını 6 yemek için ve style devamını getir
+
+PROMT 6
+footer ve header koyu renkli olsun ve yazılar ortada olsun
+
+prompt (canva kullanıldı)
+resim promptları 
+-- Mor Patlıcanlı Bulut Köftesi
+-- Ay Işığı Çorbası
+-- Volkanik Pizza
+-- Rüzgarın Fısıltısı Tatlısı
+-- Zaman Yolcusu Burger
+-- Düşler Diyarı Kokteyli
+
+prompt 7 
+öncelikle kodda demediğim bir şeyi değiştirme. ve şu adımları uygula 3 ustte 3 altta 
+olacak şekilde ızgara düzeni oluştur. Yemeğin üzerine tıklandığında yeni bir sayfa açılsın 
+ve yemeğin tarifini göstersin. ayrıca navbardaki tarifler kısmından da tariflere gidilebilsin.
+
+
+prompt 8
+Mor Patlıcanlı Bulut Köftesi
+Patlıcan ve bulut mantarı ile yapılan, havada süzülen ve ağızda eriyen bir köfte tarifini ver  ve html e dök css ekle
+
+prompt 9
+Ay Işığı Çorbası
+Işıltılı deniz yosunu ve ay ışığı özütü ile yapılan, geceleri parlayan bir çorba.   bu çorbanın tarifini ver ve html yapısına dök . ikinci adım olarak yukaridaki ile aynı css yapısını kullan
+
+prompt 10
+Volkanik Pizza
+Erimiş lavdan yapılan bir pizza tabanı, üzerinde volkanik sebzeler ve baharatlar. tarifini ver ve html yapısına dök
+
+prompt 10
+Rüzgarın Fısıltısı Tatlısı
+Rüzgarın enerjisiyle tatlandırılan ve havada asılı duran bir tatlı. tarifi ve html yapısı
+
+prompt 11
+Zaman Yolcusu Burger
+Farklı zaman dilimlerinden gelen malzemelerle yapılan, her ısırıkta farklı bir tarihi deneyim sunan bir burger. tarifi ve html yapısı
+
+prompt 12
+Düşler Diyarı Kokteyli
+Rüyaların özünden yapılan ve farklı duygular uyandıran bir kokteyl.tarifi ve html yapısı
+
+prompt 13 
+Dünyadan Olmayan Lezzetler adlı web sitesi için hakkımda yazısı yaz ve html yapısı oluştur
